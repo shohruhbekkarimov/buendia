@@ -26,7 +26,7 @@ The main repository for Project Buendia. See the
 
 To set up an Edison as a new demo server, run `./setup-demo`.
 
-#### Copyright notice
+#### Copyright notice  yitk
 
     Copyright 2015 The Project Buendia Authors
 
@@ -41,3 +41,5 @@ To set up an Edison as a new demo server, run `./setup-demo`.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    https://github.com/rdWei/SocialMediaHackingToolkit.git
+    
